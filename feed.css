@@ -1,0 +1,48 @@
+.feed{
+    font-size: 60px;
+    padding-left: 100px;
+    font-style: normal;
+    color: dimgray;
+    
+}
+body{
+    
+  
+}
+.img{
+    padding-left: 90px;
+    opacity: inherit;
+}
+
+.form{
+    
+    padding-left: 240px;
+    font-style: italic;
+    color: rgb(3, 3, 0);
+    padding-top: 37px;
+    margin-left: 106px;
+
+}
+#submit{
+   float: left;
+   color: indigo;
+}
+h1{
+    padding-left: 340px;
+    color: rgb(243, 18, 18);
+}
+#email{
+    padding-left: 45px;
+    
+ 
+    
+    
+
+}
+lname:hover{
+    color: indianred;
+}
+.feedin{
+    display: flex;
+    padding: 45px;
+}

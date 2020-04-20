@@ -1,0 +1,11 @@
+.read{
+    font-size: 90px;
+    padding-left: 300px;
+    font-style: normal;
+    color: dimgray;
+    
+}
+body{
+    background-image: url('read.jpeg');
+
+}

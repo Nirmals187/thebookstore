@@ -1,0 +1,14 @@
+.home1 li  {
+    
+    float: left;
+    margin: 25px;
+    color: solid black;
+    border: darkturquoise;
+    width: 3px;
+    height: 3px;
+    
+}
+.home1 li a{
+    color: dodgerblue;
+    display: inline;
+}
